@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "TES3MP",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "tes3mp.Win64.release.0.8.1.zip",
+        "UpdateSourceArgs": "TES3MP/TES3MP",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

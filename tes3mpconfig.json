@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Hostname",
+        "Category": "Server Settings",
+        "Description": "Public name of your server",
+        "Keywords": "hostname",
+        "FieldName": "hostname",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "hostname",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "My server",
+        "Placeholder": "My server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

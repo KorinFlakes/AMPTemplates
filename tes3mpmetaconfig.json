@@ -1,0 +1,22 @@
+[
+    {
+        "ConfigFile": "tes3mp-server-default.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "server/data/player/",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "server/scripts/config.lua",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "server/data/requiredDataFiles.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]
